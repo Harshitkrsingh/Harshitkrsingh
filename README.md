@@ -1,3 +1,21 @@
+<pre align="center">
+         ,///(((((///,.               Harshit Kumar Singh
+      .((((((((((((((((((.            -------------------
+    .((((((((((((((((((((((.          OS: Full Stack & IoT Ecosystem
+   (((((((/`   `\(((((((((((          Role: Full Stack Developer / Edge AI
+  ((((((|  .---.  |((((((((((         Focus: Java, DSA, Backend Systems
+  ((((((| ( o o ) |((((((((((         Location: India 🇮🇳
+  ((((((|   .-.   |((((((((((         Status: Open for Collaboration 🤝
+   ((((((`  ---  '((((((((((          
+    '(((((\  _  /((((((((('           Languages: Java, JS, HTML5, CSS3
+      '((((|~~~|((((((('              Frameworks: React, Node, Express, Redux
+       /=================\            Hardware: Arduino, Raspberry Pi
+      /  |             |  \           Contact: harshitkumar0186@gmail.com
+     /   |   SUIT &    |   \          
+    /    |   TIE       |    \
+</pre>
+
+---
 # Hi there, I'm Harshit Kumar Singh 👋
 
 ### 👨‍💻 Full Stack Developer | AI, Computer Vision & IoT Enthusiast
