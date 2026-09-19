@@ -54,7 +54,7 @@ I'm a Computer Science student based in India building high-impact systems at th
 ### 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://snk-generator.vercel.app/api/github-contribution-grid-snake?user=Harshitkrsingh&theme=dark" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Harshitkrsingh/Harshitkrsingh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ---
@@ -62,14 +62,14 @@ I'm a Computer Science student based in India building high-impact systems at th
 ### 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Harshitkrsingh&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&area_color=0891b2&area=true&hide_border=true" width="100%" alt="Harshit's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitkrsingh&theme=react-dark&hide_border=true" width="100%" alt="Harshit's Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harshitkrsingh&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="Harshit's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitkrsingh&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Harshitkrsingh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Harshit's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harshitkrsingh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
