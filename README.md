@@ -62,8 +62,12 @@ I'm a Computer Science student based in India building high-impact systems at th
 ### 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitkrsingh&theme=react-dark&hide_border=true" width="100%" alt="Harshit's Activity Graph" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Harshitkrsingh&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&area_color=0891b2&area=true&hide_border=true" width="100%" alt="Harshit's Activity Graph" />
 </div>
+
+<br />
+
+
 
 <br />
 
